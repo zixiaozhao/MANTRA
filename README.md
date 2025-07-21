@@ -1,2 +1,2 @@
 # MANTRA
-Thid repo contains the caode for the two tasks we explored in our paper.
+This repo contains the code for the two tasks we explored in our paper.
